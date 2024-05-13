@@ -1,0 +1,5 @@
+C:/Users/kubia/Desktop/CMakeProject1/out/build/x64-release/CMakeFiles/edit_cache.dir
+C:/Users/kubia/Desktop/CMakeProject1/out/build/x64-release/CMakeFiles/rebuild_cache.dir
+C:/Users/kubia/Desktop/CMakeProject1/out/build/x64-release/MakeLibrary/CMakeFiles/MakeLibrary.dir
+C:/Users/kubia/Desktop/CMakeProject1/out/build/x64-release/MakeLibrary/CMakeFiles/edit_cache.dir
+C:/Users/kubia/Desktop/CMakeProject1/out/build/x64-release/MakeLibrary/CMakeFiles/rebuild_cache.dir
