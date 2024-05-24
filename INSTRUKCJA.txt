@@ -1,0 +1,5 @@
+INSTRUKCJA
+1. Projekt działa na podstawie scikit_build_example
+2. Pobrać biblioteki matplotplusplus i AudioFile z GitHub'a (jako zip)
+3. Po wypakowaniu, dodać oba foldery do folderu projektu
+4. Upewnić się, że ścieżki użyte w plikach są odpowiednie
