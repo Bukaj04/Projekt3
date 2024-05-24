@@ -3,4 +3,5 @@ INSTRUKCJA
 2. Pobrać biblioteki pybin11, matplotplusplus i AudioFile z GitHub'a (jako zip)
 3. Po wypakowaniu, dodać oba foldery do folderu projektu
 4. Upewnić się, że ścieżki użyte w plikach są odpowiednie
-5. Wykresy wyświetlać przy użyciu PyCharm.
+5. Dodać nazwy funkcji do pliku _init_.py w scikit_build_example
+6. Wykresy wyświetlać przy użyciu PyCharm.
